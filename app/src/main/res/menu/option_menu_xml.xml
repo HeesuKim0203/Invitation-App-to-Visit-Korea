@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#436f8a">
+
+    <item
+        android:id="@+id/area1"
+        android:title="서울"
+        android:textColor="#bac964"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area2"
+        android:title="인천"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area3"
+        android:title="대전"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area4"
+        android:title="대구"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area5"
+        android:title="광주"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area6"
+        android:title="부산"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area7"
+        android:title="울산"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area8"
+        android:title="세종특별시"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area31"
+        android:title="경기도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area32"
+        android:title="강원도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area33"
+        android:title="충청북도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area34"
+        android:title="충청남도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area35"
+        android:title="경상북도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area36"
+        android:title="경상남도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area37"
+        android:title="전라북도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area38"
+        android:title="전라남도"/>
+    <item
+        android:textColor="#bac964"
+        android:id="@+id/area39"
+        android:title="제주도"/>
+
+
+
+</menu>
